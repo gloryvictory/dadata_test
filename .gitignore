@@ -1,0 +1,14 @@
+*.bat
+*.zip
+*.log
+*.csv
+*.tar
+*.tar.gz
+*.xlsx
+.idea
+.vscode
+venv
+test.code-workspace
+examples
+cfg.py
+out
